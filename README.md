@@ -165,13 +165,13 @@ http://localhost:8501
 
 ## Model File
 
-The trained model is stored as:
+The trained model is not included in this repository because it exceeds GitHub's file-size limits.
 
-```text
+To run the project locally, place the trained model file:
+
 final_face_segmentation_model.keras
-```
 
-This model is automatically loaded by the Streamlit application for inference.
+inside the project root directory before launching the Streamlit application.
 
 ---
 
